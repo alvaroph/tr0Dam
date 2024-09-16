@@ -1,0 +1,40 @@
+{
+     "preguntes": [
+    {
+      "id": 1,
+      "pregunta": "Quina marca de cotxes utilitza el lema 'Ultimate Driving Machine'?",
+      "respostes": [
+        "BMW",
+        "Mercedes-Benz",
+        "Audi",
+        "Lexus"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://exemple.com/bmw.jpg"
+    },
+    {
+      "id": 2,
+      "pregunta": "Quina marca de begudes gasoses té com a mascota un porc espí?",
+      "respostes": [
+        "Coca-Cola",
+        "Pepsi",
+        "Fanta",
+        "Sprite"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://exemple.com/coca-cola.jpg"
+    },
+    {
+      "id": 3,
+      "pregunta": "Quina marca de telèfons mòbils va llançar el model iPhone?",
+      "respostes": [
+        "Apple",
+        "Samsung",
+        "Huawei",
+        "Sony"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://exemple.com/apple.jpg"
+    }
+  ]
+}

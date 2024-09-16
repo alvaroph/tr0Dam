@@ -1,0 +1,1 @@
+import { getPreguntes, deletePregunta ,addPregunta} from './communicationsManager';
